@@ -13,6 +13,7 @@ title: Syllabus
 
 - [Open Source Textbook](http://www.buffalo.edu/content/cas/math/ug/ug-courses/syllabi/_jcr_content/par/download_457389674/file.res/diffyqs_UB.pdf)
 - [Anaconda Python 3.7 Distribution](https://www.anaconda.com/products/individual)
+	- &nbsp; &nbsp; During installation, add the Anaconda folder to PATH.
 - [WebWork](http://ww2.math.buffalo.edu/webwork2/2020_5_MTH306_Hopfensperger/)
 
 
