@@ -1,0 +1,36 @@
+[
+  
+    {
+
+      "title"    : "Lecture 03 - Diffy Qs",
+      "url"      : "/2020/05/28/lecture-03-diffy-qs",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-05-28 00:00:00 -0400",
+      "discription" : "What are differential equations? What constitutes a solution?"
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 02 - Functions",
+      "url"      : "/2020/05/27/lecture-02-functions",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-05-27 00:00:00 -0400",
+      "discription" : "What is a function, what is its domain?"
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 01 - Sets",
+      "url"      : "/2020/05/26/lecture-01-sets",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-05-26 00:00:00 -0400",
+      "discription" : "What are sets? Which ones do we consider in differential equations?"
+
+    } 
+  
+]
