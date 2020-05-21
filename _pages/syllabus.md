@@ -26,10 +26,10 @@ title: Syllabus
 - Power series methods
 
 ### Schedule
-- Exams all during regular class period, 8:40AM - 10:30AM
-	- &nbsp; &nbsp; Exam 1, 05 June
-	- &nbsp; &nbsp; Exam 2, 19 June
-	- &nbsp; &nbsp; Exam 3, 03 July
+- Exams all during regular class period, Thursday 8:40AM - 10:30AM
+	- &nbsp; &nbsp; Exam 1, 04 June
+	- &nbsp; &nbsp; Exam 2, 18 June
+	- &nbsp; &nbsp; Exam 3, 02 July
 	- &nbsp; &nbsp; Exams proctored via [Respondus monitor](http://www.buffalo.edu/ubit/service-guides/teaching-technology/learning-resources-for-students/ublearns/respondus.html)
 - Asynchronous lectures via prerecorded video
 	- &nbsp; &nbsp; Homework for each lecture, due within 48 hours.
