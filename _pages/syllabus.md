@@ -31,10 +31,11 @@ title: Syllabus
 	- &nbsp; &nbsp; Exam 2, 18 June
 	- &nbsp; &nbsp; Exam 3, 02 July
 	- &nbsp; &nbsp; Exams proctored via [Respondus monitor](http://www.buffalo.edu/ubit/service-guides/teaching-technology/learning-resources-for-students/ublearns/respondus.html)
+	(Webcam required)
 - Asynchronous lectures via prerecorded video
-	- &nbsp; &nbsp; Homework for each lecture, due within 48 hours.
-- Recitation Schedule TBD
-- Office Hours TBD
+	- &nbsp; &nbsp; Homework for each lecture, due within 48 hours
+- Asela will hold a live recitation to answer questions at 3PM each Monday
+- John will hold a live recitation to answer questions at 12PM each Thursday
 
 ### Grading Policy
 - Weight is 60% Exams, 40% Homework
