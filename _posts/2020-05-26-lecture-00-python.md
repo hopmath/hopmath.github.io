@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Lecture 00 - Intro to Python
-description: Types, lists, ranges, projec euler
+description: Types, lists, ranges, project euler
 tags: [lecture, python]
 ---
 
 [Lecture on Youtube](https://www.youtube.com/watch?v=s65sPWNEGds)
 For full quality, watch at 1440p.
 
-[Intro to Python.ipynb](https://buffalo.box.com/s/d6g603hll37zv8hi67synsy4cfkp2uou)
-Save this into your 306 directory, as in the video lecture.
+[Files for this lecture](https://buffalo.box.com/s/2i79ltzptdlp5qdoqc1uejr5tpv832sh)  
+Make a 306 directory, as in the lecture. Extract this to your 306 directory.
 
 Here is a correction to my code for computing the "Largest Palindromic Product":
 
