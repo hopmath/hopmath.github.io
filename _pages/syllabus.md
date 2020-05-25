@@ -15,6 +15,8 @@ title: Syllabus
 - [Anaconda Python 3.7 Distribution](https://www.anaconda.com/products/individual)
 	- &nbsp; &nbsp; During installation, add the Anaconda folder to PATH.
 - [WebWork](http://ww2.math.buffalo.edu/webwork2/2020_5_MTH306_Hopfensperger/)
+- [Piazza](https://buffalo.box.com/s/0x5u1t3tkxnf7jw8jig7k5avxx6rqh7r)
+	-  &nbsp; &nbsp; Please discuss problems here before emailing me.
 
 
 ### Material

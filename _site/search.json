@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Lecture 02 - Functions",
+      "url"      : "/2020/05/28/lecture-02-functions",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-05-28 00:00:00 -0400",
+      "discription" : "domain codomain differentiable matplotlib"
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 01 - Sets",
       "url"      : "/2020/05/27/lecture-01-sets",
       "category" : "",

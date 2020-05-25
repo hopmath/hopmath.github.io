@@ -5,7 +5,7 @@ description: Types, lists, ranges, project euler
 tags: [lecture, python]
 ---
 
-[Lecture on Youtube](https://www.youtube.com/watch?v=s65sPWNEGds)
+[Lecture on Youtube](https://www.youtube.com/watch?v=TBxRXhuGF-w)
 For full quality, watch at 1440p.
 
 [Files for this lecture](https://buffalo.box.com/s/2i79ltzptdlp5qdoqc1uejr5tpv832sh)  
