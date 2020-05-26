@@ -40,6 +40,7 @@ It is therefore expected that students receive substation exposure to computing.
 	- &nbsp; &nbsp; Homework for each lecture, due within 48 hours
 - Asela will hold a live recitation to answer questions at 3PM each Monday
 - John will hold a live recitation to answer questions at 12PM each Thursday
+- John is also in the Math Help Center at 2PM each Tuesday. (Link in sidebar.)
 
 ### Grading Policy
 - Weight is 60% Exams, 40% Homework

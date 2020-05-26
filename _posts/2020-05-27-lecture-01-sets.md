@@ -7,8 +7,12 @@ tags: [lecture, python]
 
 [Lecture on Youtube](https://www.youtube.com/watch?v=ttC3Xr0n4Zk)
 
-[Files for this lecture, including notes](https://buffalo.box.com/s/0x5u1t3tkxnf7jw8jig7k5avxx6rqh7r)  
-Extract this in your 306 directory.
+[Files for this lecture, including notes](https://buffalo.box.com/s/0x5u1t3tkxnf7jw8jig7k5avxx6rqh7r)
+Extract this in your 306 directory.  
+**This link includes the revised version of `check.py`, which tolerates the imprecision of floating-point arithmetic.**  
+For example, Try running the following code:
+	`3*0.8 == 2.4`
+For me, it returns `False`!!
 
 Get Microsoft OfficeLens:
 [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
