@@ -26,6 +26,8 @@ title: Syllabus
 - Matrix techniques for linear systems and linearizations
 - Laplace transforms
 - Power series methods
+- **This course is approved for satisfying the "Computer Applications" requirement in the Math Major.
+It is therefore expected that students receive substation exposure to computing.**
 
 ### Schedule
 - Exams all during regular class period, Thursday 8:40AM - 10:30AM
