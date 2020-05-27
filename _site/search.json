@@ -24,23 +24,34 @@
   
     {
 
-      "title"    : "Answers to Questions",
-      "url"      : "/2020/05/27/answers-to-questions",
-      "category" : "",
-      "tags"     : "just_talking, python",
-      "date"     : "2020-05-27 00:00:00 -0400",
-      "discription" : ""
-
-    } ,
-  
-    {
-
       "title"    : "Lecture 00 - Intro to Python",
       "url"      : "/2020/05/26/lecture-00-python",
       "category" : "",
       "tags"     : "lecture, python",
       "date"     : "2020-05-26 00:00:00 -0400",
       "discription" : "Types, lists, ranges, project euler"
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 00 - Solution to HW",
+      "url"      : "/2020/05/26/lecture-00-answers",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-05-26 00:00:00 -0400",
+      "discription" : "Types, lists, ranges, project euler"
+
+    } ,
+  
+    {
+
+      "title"    : "A few more python basics",
+      "url"      : "/1969/10/30/answers-to-questions",
+      "category" : "",
+      "tags"     : "just_talking, python",
+      "date"     : "1969-10-30 00:00:00 -0500",
+      "discription" : ""
 
     } ,
   
