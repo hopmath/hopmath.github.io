@@ -24,6 +24,17 @@
   
     {
 
+      "title"    : "Answers to Questions",
+      "url"      : "/2020/05/27/answers-to-questions",
+      "category" : "",
+      "tags"     : "just_talking, python",
+      "date"     : "2020-05-27 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 00 - Intro to Python",
       "url"      : "/2020/05/26/lecture-00-python",
       "category" : "",
@@ -38,7 +49,7 @@
       "title"    : "Welcome Video",
       "url"      : "/1969/10/29/welcome",
       "category" : "",
-      "tags"     : "Hi!",
+      "tags"     : "just_talking",
       "date"     : "1969-10-29 00:00:00 -0500",
       "discription" : ""
 
