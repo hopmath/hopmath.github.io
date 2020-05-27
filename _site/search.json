@@ -31,6 +31,17 @@
       "date"     : "2020-05-26 00:00:00 -0400",
       "discription" : "Types, lists, ranges, project euler"
 
+    } ,
+  
+    {
+
+      "title"    : "Welcome Video",
+      "url"      : "/1969/10/29/welcome",
+      "category" : "",
+      "tags"     : "Hi!",
+      "date"     : "1969-10-29 00:00:00 -0500",
+      "discription" : ""
+
     } 
   
 ]
