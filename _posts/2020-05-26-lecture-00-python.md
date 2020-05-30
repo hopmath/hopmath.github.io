@@ -8,7 +8,7 @@ tags: [lecture, python]
 [Lecture on Youtube](https://www.youtube.com/watch?v=TBxRXhuGF-w)
 For full quality, watch at 1440p.
 
-[Files for this lecture](https://buffalo.box.com/s/2i79ltzptdlp5qdoqc1uejr5tpv832sh)  
+[Files for this lecture](https://buffalo.box.com/s/qy79n3s4bhpip3cfu9eobacl4ekgr1h5)  
 Make a 306 directory, as in the lecture. Extract this to your 306 directory.
 
 Here is a correction to my code for computing the "Largest Palindromic Product":

@@ -7,7 +7,7 @@ tags: [lecture, python]
 
 [Lecture on Youtube](https://www.youtube.com/watch?v=ttC3Xr0n4Zk)
 
-[Files for this lecture, including notes](https://buffalo.box.com/s/0x5u1t3tkxnf7jw8jig7k5avxx6rqh7r)
+[Files for this lecture, including notes](https://buffalo.box.com/s/t0zp725sc85uqti9lplzzum3ehgd998u)
 Extract this in your 306 directory.  
 **This link includes the revised version of `check.py`, which tolerates the imprecision of floating-point arithmetic.**  
 For example, Try running the following code:
