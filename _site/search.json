@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Lecture 03 - Intro to Diffy Qs",
+      "url"      : "/2020/06/01/lecture-03-diffyqs",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-01 00:00:00 -0400",
+      "discription" : "riemann sum, string formatting"
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 02 - Functions",
       "url"      : "/2020/05/28/lecture-02-functions",
       "category" : "",
