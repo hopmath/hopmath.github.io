@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture Solutions to HW 00
+title: Solutions to HW 00
 description: Types, lists, ranges, project euler
 tags: [lecture, python]
 ---
