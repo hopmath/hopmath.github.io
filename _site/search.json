@@ -35,6 +35,17 @@
   
     {
 
+      "title"    : "Lecture 01 - Solutions",
+      "url"      : "/2020/05/27/01-solutions",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-05-27 00:00:00 -0400",
+      "discription" : "open connected boundary region differentiable"
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 00 - Intro to Python",
       "url"      : "/2020/05/26/lecture-00-python",
       "category" : "",
