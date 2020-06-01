@@ -2,6 +2,28 @@
   
     {
 
+      "title"    : "Lecture 04 - Implicit Solutions, Newton&#39;s Method",
+      "url"      : "/2020/06/02/lecture-04-implicit-newtons",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-02 00:00:00 -0400",
+      "discription" : "newtons method, graphing, separable equations, vertical line test"
+
+    } ,
+  
+    {
+
+      "title"    : "Solutions to HW 02",
+      "url"      : "/2020/06/02/02-solutions",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-02 00:00:00 -0400",
+      "discription" : "set_ylim, nth_root, fill_between"
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 03 - Intro to Diffy Qs",
       "url"      : "/2020/06/01/lecture-03-diffyqs",
       "category" : "",
