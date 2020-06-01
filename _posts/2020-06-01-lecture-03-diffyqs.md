@@ -11,7 +11,8 @@ tags: [lecture, python]
 Extract this in your 306 directory.
 
 [This Course on Gradescope](https://www.gradescope.com/courses/134417/)  
-Submit your answer `03 HW.ipynb` here.
+Submit your answer `03 HW.ipynb` here.  
+**UPDATE: Please take a separate screenshot for each question, and select the correct screenshot for each question on Gradescope.**
 
 [WebWork](http://ww2.math.buffalo.edu/webwork2/2020_5_MTH306_Hopfensperger/)  
 Complete problem sets 2 and 3.  
