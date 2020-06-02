@@ -5,4 +5,6 @@ description:
 tags: [lecture, python]
 ---
 
-[gl hf](https://buffalo.box.com/s/j9r36d19jpf5vzg60dvr62t0zp9fo0ui)
+[Practice Exam 1](https://buffalo.box.com/s/j9r36d19jpf5vzg60dvr62t0zp9fo0ui)
+
+Make sure you have the Lockdown browser installed and a webcam up and running before Thursday morning.
