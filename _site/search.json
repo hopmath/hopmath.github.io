@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Lecture 05 - Autonomous Flows, Stability",
+      "url"      : "/2020/06/08/nonautonomous-flows",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-08 00:00:00 -0400",
+      "discription" : "stable unstable equilibrium flow river"
+
+    } ,
+  
+    {
+
       "title"    : "Solutions to Exam 01",
       "url"      : "/2020/06/05/exam-01",
       "category" : "",
