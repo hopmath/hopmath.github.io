@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lecture 05 - Autonomous Flows, Stability
-description: stable unstable equilibrium flow river
+title: Lecture 06 - Non-Autonomous Flows, Euler's Method
+description: euler tangent lines
 tags: [lecture, python]
 ---
 

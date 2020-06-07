@@ -2,12 +2,23 @@
   
     {
 
-      "title"    : "Lecture 05 - Autonomous Flows, Stability",
+      "title"    : "Lecture 06 - Non-Autonomous Flows, Euler&#39;s Method",
       "url"      : "/2020/06/08/nonautonomous-flows",
       "category" : "",
       "tags"     : "lecture, python",
       "date"     : "2020-06-08 00:00:00 -0400",
-      "discription" : "stable unstable equilibrium flow river"
+      "discription" : "euler tangent lines"
+
+    } ,
+  
+    {
+
+      "title"    : "Python Gotchas -- Global Variables",
+      "url"      : "/2020/06/07/global-vars",
+      "category" : "",
+      "tags"     : "just_talking, python",
+      "date"     : "2020-06-07 00:00:00 -0400",
+      "discription" : ""
 
     } ,
   
