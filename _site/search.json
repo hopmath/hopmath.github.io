@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Lecture 07 -- Euler Pathologies and the Picard–Lindelöf theorem",
+      "url"      : "/2020/06/09/eulerbad",
+      "category" : "",
+      "tags"     : "lecture",
+      "date"     : "2020-06-09 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 06 - Non-Autonomous Flows, Euler&#39;s Method",
       "url"      : "/2020/06/08/nonautonomous-flows",
       "category" : "",
