@@ -2,7 +2,7 @@
 layout: post
 title: Lecture 08 -- More thoughts on Euler's method
 description:
-tags: [lecture]
+tags: [lecture, python]
 ---
 
 [Lecture on Youtube](https://www.youtube.com/watch?v=EcsirL6S1i0)
