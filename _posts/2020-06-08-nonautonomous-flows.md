@@ -7,6 +7,8 @@ tags: [lecture, python]
 
 [Lecture on Youtube](https://www.youtube.com/watch?v=tObqLeqGWxc)
 
+[Solved example of Euler's method](https://www.youtube.com/watch?v=gWA_S6nRQPU)
+
 [Files for this lecture, including notes](https://buffalo.box.com/s/xnboosjox9wit64ipot3ah9uzadjnayt)  
 Extract this in your 306 directory.
 
