@@ -13,17 +13,6 @@
   
     {
 
-      "title"    : "Lecture 08.1 -- numpy",
-      "url"      : "/2020/06/13/numpy",
-      "category" : "",
-      "tags"     : "lecture, python",
-      "date"     : "2020-06-13 00:00:00 -0400",
-      "discription" : ""
-
-    } ,
-  
-    {
-
       "title"    : "Lecture 09 -- RK4",
       "url"      : "/2020/06/11/rk4",
       "category" : "",
@@ -36,7 +25,18 @@
     {
 
       "title"    : "Lecture 08 -- More thoughts on Euler&#39;s method",
-      "url"      : "/2020/06/10/im-so-tired",
+      "url"      : "/2020/06/10/step-size",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-10 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 08.1 -- numpy",
+      "url"      : "/2020/06/10/numpy",
       "category" : "",
       "tags"     : "lecture, python",
       "date"     : "2020-06-10 00:00:00 -0400",
