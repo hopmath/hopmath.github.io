@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Practice Exam 01
+title: 01 Exam Practice
 description:
-tags: [lecture, python]
+tags: [exam, solutions]
 ---
 
 [Practice Exam 01](https://buffalo.box.com/s/j9r36d19jpf5vzg60dvr62t0zp9fo0ui)

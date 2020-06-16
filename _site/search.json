@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "02 Exam Practice",
+      "url"      : "/2020/06/16/practice-exam-2",
+      "category" : "",
+      "tags"     : "exam, solutions",
+      "date"     : "2020-06-16 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 11 - Phase Plane Basics",
       "url"      : "/2020/06/15/phase-plane",
       "category" : "",
@@ -90,10 +101,10 @@
   
     {
 
-      "title"    : "Solutions to Exam 01",
+      "title"    : "01 Exam Solutions",
       "url"      : "/2020/06/05/exam-01",
       "category" : "",
-      "tags"     : "lecture, python",
+      "tags"     : "exam, solutions",
       "date"     : "2020-06-05 00:00:00 -0400",
       "discription" : ""
 
@@ -101,10 +112,10 @@
   
     {
 
-      "title"    : "Practice Exam 01",
+      "title"    : "01 Exam Practice",
       "url"      : "/2020/06/04/practice-exam-1",
       "category" : "",
-      "tags"     : "lecture, python",
+      "tags"     : "exam, solutions",
       "date"     : "2020-06-04 00:00:00 -0400",
       "discription" : ""
 
