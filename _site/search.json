@@ -2,7 +2,18 @@
   
     {
 
-      "title"    : "Lecture 10 Intro to Higher Dimensions",
+      "title"    : "Lecture 11 - Phase Plane Basics",
+      "url"      : "/2020/06/15/phase-plane",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-15 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 10 - Intro to Higher Dimensions",
       "url"      : "/2020/06/14/intro-to-higher-dimensions",
       "category" : "",
       "tags"     : "lecture, python",
@@ -13,7 +24,7 @@
   
     {
 
-      "title"    : "Lecture 09 -- RK4",
+      "title"    : "Lecture 09 - RK4",
       "url"      : "/2020/06/11/rk4",
       "category" : "",
       "tags"     : "lecture, python",
@@ -24,7 +35,7 @@
   
     {
 
-      "title"    : "Lecture 08 -- More thoughts on Euler&#39;s method",
+      "title"    : "Lecture 08 - Euler Step Search",
       "url"      : "/2020/06/10/step-size",
       "category" : "",
       "tags"     : "lecture, python",
@@ -35,7 +46,7 @@
   
     {
 
-      "title"    : "Lecture 08.1 -- numpy",
+      "title"    : "Lecture 08.1 - numpy",
       "url"      : "/2020/06/10/numpy",
       "category" : "",
       "tags"     : "lecture, python",
@@ -46,7 +57,7 @@
   
     {
 
-      "title"    : "Lecture 07 -- Euler Pathologies and the Picard–Lindelöf theorem",
+      "title"    : "Lecture 07 - Euler Pathologies and the Picard–Lindelöf theorem",
       "url"      : "/2020/06/09/eulerbad",
       "category" : "",
       "tags"     : "lecture",
@@ -68,7 +79,7 @@
   
     {
 
-      "title"    : "Python Gotchas -- Global Variables",
+      "title"    : "Python Gotchas - Global Variables",
       "url"      : "/2020/06/07/global-vars",
       "category" : "",
       "tags"     : "just_talking, python",

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 10 Intro to Higher Dimensions
+title: Lecture 10 - Intro to Higher Dimensions
 description:
 tags: [lecture, python]
 ---

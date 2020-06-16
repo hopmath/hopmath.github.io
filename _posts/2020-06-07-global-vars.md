@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Gotchas -- Global Variables
+title: Python Gotchas - Global Variables
 description:
 tags: [just_talking, python]
 ---
