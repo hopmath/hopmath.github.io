@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Solutions to HW 7,8,9
+title: Solutions to HW 6,7,8,9
 description:
 tags: [solutions]
 ---
+
+[HW6](https://buffalo.box.com/s/547zv3wre1x4ig6inh2bgq3et03evhsb)
 
 [HW7](https://buffalo.box.com/s/j19gx8nl8bwkwurvdk58k0gm0lj6yy5c)
 
