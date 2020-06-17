@@ -2,7 +2,18 @@
   
     {
 
-      "title"    : "02 Exam Practice",
+      "title"    : "Solutions to HW 7,8,9",
+      "url"      : "/2020/06/17/solutions-to-hw7to9",
+      "category" : "",
+      "tags"     : "solutions",
+      "date"     : "2020-06-17 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Exam 02 Practice",
       "url"      : "/2020/06/16/practice-exam-2",
       "category" : "",
       "tags"     : "exam, solutions",
@@ -101,7 +112,7 @@
   
     {
 
-      "title"    : "01 Exam Solutions",
+      "title"    : "Exam 01 Solutions",
       "url"      : "/2020/06/05/exam-01",
       "category" : "",
       "tags"     : "exam, solutions",
@@ -112,7 +123,7 @@
   
     {
 
-      "title"    : "01 Exam Practice",
+      "title"    : "Exam 01 Practice",
       "url"      : "/2020/06/04/practice-exam-1",
       "category" : "",
       "tags"     : "exam, solutions",

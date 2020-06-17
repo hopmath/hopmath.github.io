@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 01 Exam Practice
+title: Exam 01 Practice
 description:
 tags: [exam, solutions]
 ---
