@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Power Series...
+title: Pre-Lecture 13
 description:
 tags: []
 ---
