@@ -2,6 +2,94 @@
   
     {
 
+      "title"    : "Final Grades",
+      "url"      : "/2020/07/04/final-grades",
+      "category" : "",
+      "tags"     : "See You Space Cowboy",
+      "date"     : "2020-07-04 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 18 - Even More Power Series Examples",
+      "url"      : "/2020/07/01/last-video",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-07-01 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 17 - Exam 03 Practice Solutions",
+      "url"      : "/2020/06/30/practice-exam-3-video",
+      "category" : "",
+      "tags"     : "exam",
+      "date"     : "2020-06-30 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Exam 03 Practice",
+      "url"      : "/2020/06/29/practice-exam-3",
+      "category" : "",
+      "tags"     : "exam",
+      "date"     : "2020-06-29 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 16 - More Power Series Examples",
+      "url"      : "/2020/06/29/more-power-series",
+      "category" : "",
+      "tags"     : "lecture, python",
+      "date"     : "2020-06-29 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Solutions to HW 13, 14, 15",
+      "url"      : "/2020/06/29/solutions-to-hw1314",
+      "category" : "",
+      "tags"     : "solutions",
+      "date"     : "2020-06-29 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 15 - Complex Power Series",
+      "url"      : "/2020/06/24/complex-power-series",
+      "category" : "",
+      "tags"     : "lecture",
+      "date"     : "2020-06-24 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Lecture 14 - Power Series Solutions",
+      "url"      : "/2020/06/23/power-series-solutions",
+      "category" : "",
+      "tags"     : "lecture",
+      "date"     : "2020-06-23 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Lecture 13 - Power Series",
       "url"      : "/2020/06/22/power-series-lecture",
       "category" : "",
@@ -13,7 +101,7 @@
   
     {
 
-      "title"    : "Power Series...",
+      "title"    : "Pre-Lecture 13",
       "url"      : "/2020/06/21/powerseries",
       "category" : "",
       "tags"     : "",
